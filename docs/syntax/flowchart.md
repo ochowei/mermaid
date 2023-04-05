@@ -377,7 +377,7 @@ flowchart LR
    A == text ==> B
 ```
 
-### An invisible link
+### An invisisble link
 
 This can be a useful tool in some instances where you want to alter the default positioning of a node.
 
